@@ -1,11 +1,11 @@
 import React from 'react'
 import './Navbar.css'
-import temp_logo from '../../assets/temp_logo.png'
+import ethan_harris_name from '../../assets/ethan_harris_name.png'
 
 const Navbar = () => {
   return (
-    <nav>
-        <img src={temp_logo} alt="" />
+    <nav className='container'>
+        <img src={ethan_harris_name} alt="" className='ethan_harris_name' />
         <ul>
             <li>Home</li>
             <li>Overview</li>
@@ -13,6 +13,7 @@ const Navbar = () => {
             <li>Education</li>
             <li>Experience</li>
             <li>Interests</li>
+            <li><button className='btn'>Contact Me</button></li>
         </ul>
     </nav>
   )
