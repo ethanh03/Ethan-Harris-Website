@@ -1,15 +1,21 @@
-import headshot from './headshot.jpeg';
-import './App.css';
-import Background from './Components/Background';
+import React from 'react'
+import Navbar from './Components/Navbar/Navbar'
+import Background from './Components/Background/Background'
+import Overview from './Components/Overview/Overview'
+import Projects from './Components/Projects/Projects'
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-      <Background /> 
-      </header>
+    <div>
+      <Navbar/>
+      <Background/>
+      <div className="container">
+        <Projects/>
+        </div>
+      <Overview/>
+
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
