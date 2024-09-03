@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ethan-harris-website/static/css/main.f855e6bc.css",
-    "main.js": "/ethan-harris-website/static/js/main.53ab3645.js",
+    "main.css": "/ethan-harris-website/static/css/main.ea83a522.css",
+    "main.js": "/ethan-harris-website/static/js/main.e8b0f16b.js",
     "static/js/453.86d436bf.chunk.js": "/ethan-harris-website/static/js/453.86d436bf.chunk.js",
     "static/media/headshot.jpeg": "/ethan-harris-website/static/media/headshot.dc76328caf8a4ac3c718.jpeg",
     "index.html": "/ethan-harris-website/index.html",
-    "main.f855e6bc.css.map": "/ethan-harris-website/static/css/main.f855e6bc.css.map",
-    "main.53ab3645.js.map": "/ethan-harris-website/static/js/main.53ab3645.js.map",
+    "main.ea83a522.css.map": "/ethan-harris-website/static/css/main.ea83a522.css.map",
+    "main.e8b0f16b.js.map": "/ethan-harris-website/static/js/main.e8b0f16b.js.map",
     "453.86d436bf.chunk.js.map": "/ethan-harris-website/static/js/453.86d436bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.53ab3645.js"
+    "static/css/main.ea83a522.css",
+    "static/js/main.e8b0f16b.js"
   ]
 }
