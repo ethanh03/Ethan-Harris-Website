@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/ethan-harris-website/static/css/main.e989c0bc.css",
-    "main.js": "/ethan-harris-website/static/js/main.fcb1aa21.js",
+    "main.css": "/ethan-harris-website/static/css/main.889bbca6.css",
+    "main.js": "/ethan-harris-website/static/js/main.69da78ae.js",
     "static/js/453.86d436bf.chunk.js": "/ethan-harris-website/static/js/453.86d436bf.chunk.js",
     "static/media/minecraft_mods.png": "/ethan-harris-website/static/media/minecraft_mods.1f9e95533703ba83b62a.png",
     "static/media/zombies_map.jpg": "/ethan-harris-website/static/media/zombies_map.4460c2312a465f854255.jpg",
     "static/media/games.jpg": "/ethan-harris-website/static/media/games.432e9b64ed7815574110.jpg",
+    "static/media/Ethan_Headshot.jpg": "/ethan-harris-website/static/media/Ethan_Headshot.6486bc787a3b1a45c49e.jpg",
     "index.html": "/ethan-harris-website/index.html",
-    "main.e989c0bc.css.map": "/ethan-harris-website/static/css/main.e989c0bc.css.map",
-    "main.fcb1aa21.js.map": "/ethan-harris-website/static/js/main.fcb1aa21.js.map",
+    "main.889bbca6.css.map": "/ethan-harris-website/static/css/main.889bbca6.css.map",
+    "main.69da78ae.js.map": "/ethan-harris-website/static/js/main.69da78ae.js.map",
     "453.86d436bf.chunk.js.map": "/ethan-harris-website/static/js/453.86d436bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e989c0bc.css",
-    "static/js/main.fcb1aa21.js"
+    "static/css/main.889bbca6.css",
+    "static/js/main.69da78ae.js"
   ]
 }
