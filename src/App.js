@@ -8,14 +8,13 @@ import Contact from './Components/Contact/Contact'
 
 const App = () => {
   return (
-    <div>
+    <div className='home'>
       <Navbar/>
       <Background/>
       <div className="container">
+        <About/>
         <Title title="In-Progress Projects" subTitle="What I've Been Working On"/>
         <Projects/>
-        <About/>
-        <Title title="Gallery" subTitle="My Life at The University of Texas at Austin"/>
         <Title title="Contact Me" subTitle="Stay in touch"/>
         <Contact/>
         </div>
